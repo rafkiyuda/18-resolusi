@@ -1,4 +1,6 @@
 RENCANA MINGGUAN
 - Belajar LKS di hari senin, rabu, jumat
+ * Kotlin
+ * C#
 - Belajar laravel
 - Kerjain project
