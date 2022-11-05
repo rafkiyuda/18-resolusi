@@ -2,8 +2,9 @@ RENCANA MINGGUAN
 - Belajar LKS di hari senin, rabu, jumat
  * Kotlin
  * C#
- # Cobol 
- # Laravel dan React
+ # Cobol
+ # Python untuk AI/ML
+ # Laravel
 - Belajar laravel
 - Kerjain project
 - Belajar membuat AI dan ML dengan python
