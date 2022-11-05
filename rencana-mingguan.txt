@@ -5,3 +5,4 @@ RENCANA MINGGUAN
  # Cobol
 - Belajar laravel
 - Kerjain project
+- Belajar membuat AI dan ML dengan python
