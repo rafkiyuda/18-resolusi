@@ -3,5 +3,7 @@ RENCANA MINGGUAN
  * Kotlin
  * C#
  # Cobol
+ # Python untuk AI/ML
+ # Laravel
 - Belajar laravel
 - Kerjain project
